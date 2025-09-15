@@ -6,9 +6,9 @@ Welcome to **Playora Labs LLP** — a premium apps, games, and SaaS development 
 We focus on building **delightful digital experiences** that combine creativity, technology, and innovation.  
 
 ### What We Do
-- **Casual & Creative Games** – Fun, engaging, and designed for all ages.  
-- **Premium Mobile Apps** – Tools that improve productivity, habits, and lifestyle.  
-- **SaaS Platforms** – Scalable, subscription-based solutions for modern businesses.  
+**Premium Mobile Apps** – Tools that improve productivity, habits, and lifestyle.  
+**Casual & Creative Games** – Fun, engaging, and designed for all ages.  
+**SaaS Platforms** – Scalable, subscription-based solutions for modern businesses.  
 
 ### Let’s Connect
 🌐 [Website](https://playoralabs.com)  
