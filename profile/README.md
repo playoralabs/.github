@@ -9,7 +9,7 @@ We focus on building **delightful digital experiences** that combine creativity,
 &nbsp;
 
 
-## 🚀 What We Do
+### 🚀 What We Do
 - 🕹️ **Casual & Creative Games** – Fun, engaging, and designed for all ages.  
 - 📱 **Premium Mobile Apps** – Tools that improve productivity, habits, and lifestyle.  
 - ☁️ **SaaS Platforms** – Scalable, subscription-based solutions for modern businesses.  
@@ -18,7 +18,7 @@ We focus on building **delightful digital experiences** that combine creativity,
 &nbsp;
 
 
-## 🤝 Let’s Connect
+### 🤝 Let’s Connect
 🌐 [Website](https://playoralabs.com)  
 ✉️ contact@playoralabs.com  
 
