@@ -1,4 +1,4 @@
-# 🎮 Playora Labs  
+# Playora Labs  
 
 **Play. Create. Innovate.**  
 
